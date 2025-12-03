@@ -50,7 +50,7 @@ export default function HeroSection() {
 
             <p className="text-lg md:text-xl text-stone-900 max-w-lg leading-relaxed">
               {t.hero.lead}{" "}
-              <span className="text-lg md:text-xl text-teal-800 max-w-lg leading-relaxed">
+              <span className="text-lg md:text-xl text-stone-900 max-w-lg leading-relaxed">
                 {t.hero.bioSecond}
               </span>
             </p>
